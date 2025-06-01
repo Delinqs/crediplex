@@ -11,6 +11,18 @@
       "lastLogin": null,
       "balance": 0,
       "referralCount": 0
+    },
+    {
+      "id": "1748781254743",
+      "username": "DencoMedia",
+      "email": "danielsalako297@gmail.com",
+      "password": "daniee247",
+      "referralUsername": null,
+      "couponCode": "SPECIAL2025",
+      "registeredAt": "2025-06-01T12:34:14.743Z",
+      "lastLogin": null,
+      "balance": 0,
+      "referralCount": 0
     }
   ]
 }
