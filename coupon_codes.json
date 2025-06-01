@@ -1,5 +1,10 @@
 [
   {
+    "code": "NEWOFF",
+    "used": false,
+    "createdAt": "2025-06-01T12:32:34.602Z"
+  },
+  {
     "code": "SPECIALOFF",
     "used": false,
     "createdAt": "2025-06-01T12:32:21.126Z"
