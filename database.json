@@ -1,3 +1,16 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "1748764427969",
+      "username": "Apple",
+      "email": "apple0@gmail.com",
+      "password": "iamsteve223",
+      "referralUsername": null,
+      "couponCode": "WELCOME2025",
+      "registeredAt": "2025-06-01T07:53:47.969Z",
+      "lastLogin": null,
+      "balance": 0,
+      "referralCount": 0
+    }
+  ]
 }
