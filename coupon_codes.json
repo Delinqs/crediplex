@@ -1,8 +1,9 @@
 [
   {
     "code": "WELCOME2025",
-    "used": false,
-    "createdAt": "2025-06-01T07:52:52.428Z"
+    "used": true,
+    "createdAt": "2025-06-01T07:52:52.428Z",
+    "usedAt": "2025-06-01T07:53:52.800Z"
   },
   {
     "code": "NEWUSER2025",
