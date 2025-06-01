@@ -1,0 +1,27 @@
+[
+  {
+    "code": "WELCOME2025",
+    "used": false,
+    "createdAt": "2025-06-01T07:52:52.428Z"
+  },
+  {
+    "code": "NEWUSER2025",
+    "used": false,
+    "createdAt": "2025-06-01T07:52:52.430Z"
+  },
+  {
+    "code": "STARTER50",
+    "used": false,
+    "createdAt": "2025-06-01T07:52:52.430Z"
+  },
+  {
+    "code": "FIRST100",
+    "used": false,
+    "createdAt": "2025-06-01T07:52:52.430Z"
+  },
+  {
+    "code": "BETA2025",
+    "used": false,
+    "createdAt": "2025-06-01T07:52:52.430Z"
+  }
+]
